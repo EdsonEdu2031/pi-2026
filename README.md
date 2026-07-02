@@ -30,7 +30,7 @@ Conforme apresentado na **Figura 1**, o coeficiente de Silhouette apresenta um d
 
 
 <p align="center">
-  <img src="pi-2026/imgs/avaliacao_parametro_m.png" width="650">
+  <img src="imgs/avaliacao_parametro_m.png" width="650">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Conforme apresentado na **Figura 1**, o coeficiente de Silhouette apresenta um d
 Com o parâmetro definido, o algoritmo foi executado para gerar os agrupamentos finais. Conforme ilustrado na **Figura 2**, a projeção dos dados utilizando PCA possibilitou analisar visualmente a separação entre os clusters obtidos.
 
 <p align="center">
-  <img src="pi-2026/imgs/plot 3d dos clusters2.png" width="650">
+  <img src="imgs/plot 3d dos clusters2.png" width="650">
 </p>
 
 <p align="center">
