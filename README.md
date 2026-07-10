@@ -46,3 +46,10 @@ Com o parâmetro definido, o algoritmo foi executado para gerar os agrupamentos 
 <p align="center">
   Figura 2 – Visualização tridimensional dos clusters obtidos pelo algoritmo Fuzzy C-Means após redução de dimensionalidade por PCA.
 </p>
+
+## Equipe
+- Edson Eduardo Ferreira - 23908965
+- Eduarda Pains Campos - 23882004
+- Gabriel Batista Chiezo - 23028678
+- Tayana Araujo de Assis - 23880883
+- Yan Yoshida Luz - 23911118
